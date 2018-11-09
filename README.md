@@ -6,7 +6,9 @@ This script is used to scan a system or systems using nmap.
 - All you need is a file called 'targets.txt' and add the IP addresses of the hosts you want to scan on a new line.
 
 #cat targets.txt
+
 192.168.56.101
+
 192.168.56.105
 
 This script is not final yet and has some bugs. I haven't put the other scripts that this script calls.
