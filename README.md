@@ -8,3 +8,7 @@ This script is used to scan a system or systems using nmap.
 #cat targets.txt
 192.168.56.101
 192.168.56.105
+
+This script is not final yet and has some bugs. I haven't put the other scripts that this script calls.
+
+Final result will be some txt files like nikto, http, full_scan, quick_scan, final_result.txt etc
